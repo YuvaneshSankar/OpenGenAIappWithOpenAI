@@ -6,3 +6,4 @@ pypdf
 pymupdf
 beautifulsoup4
 arxiv
+langchain_text_splitters
